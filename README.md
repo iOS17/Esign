@@ -52,14 +52,14 @@ Here are the most popular and most accessible methods.
 
 You must usually use PC signing methods like Sideloadly, AltStore, and TrollStore tools to install the Esign app. But with the help of the EsignPatch app, you can install the Esign app without a PC. The main advantage of this is that users don't need to buy an Apple Developer Certificate after installation. The EsignPatch Team will also deliver the Premium Developer certificate along with the app installation process.
 
-Step 01: [Download the EsignPatch](https://zeejb.com/esign/cdn/app/EsignPatch.mobileconfig) app and install it via iPhone Settings (Please use iPhone Safari Browser)
+- Step 01: [Download the EsignPatch](https://zeejb.com/esign/cdn/app/EsignPatch.mobileconfig) app and install it via iPhone Settings (Please use iPhone Safari Browser)
 (Open iPhone Settings app -> General -> VPN & Device Management -> Esign Patch -> Install -> Enter Device Passcode(If Required) -> Install -> Install -> Done)
-Step 02: Open the E-Sign Patch app on the device's home screen
-Step 03: Run Patch 1 (Free Patcher), it will take some time to add the patch files
-Step 04: You will be prompted to install the free version of the Esign app. We recommend choosing the premium version to avoid revocation.) 
-Step 05: Open https://esigncert.zeejb.com/ and download the necessary certificates. Rest assured, these certificates are safe and essential for the app's functionality. If you're comfortable with a potential revoke risk, you can opt for the free certificates. Otherwise, we recommend getting the premium certificate for added security.)
-Step 06: Navigate into the Esign settings tab and import the certificate and .p12 files.
-Step 07: Download the desired IPA file and sign it with the certificate. (later, we will describe how to import certificates and sign ipa file)
+- Step 02: Open the E-Sign Patch app on the device's home screen
+- Step 03: Run Patch 1 (Free Patcher), it will take some time to add the patch files
+- Step 04: You will be prompted to install the free version of the Esign app. We recommend choosing the premium version to avoid revocation.) 
+- Step 05: Open https://esigncert.zeejb.com/ and download the necessary certificates. Rest assured, these certificates are safe and essential for the app's functionality. If you're comfortable with a potential revoke risk, you can opt for the free certificates. Otherwise, we recommend getting the premium certificate for added security.)
+- Step 06: Navigate into the Esign settings tab and import the certificate and .p12 files.
+- Step 07: Download the desired IPA file and sign it with the certificate. (later, we will describe how to import certificates and sign ipa file)
 
 
 
