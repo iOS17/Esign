@@ -1,11 +1,17 @@
-# Download Esign iOS - On Device iPA Signing Tool - iOS 14 - iOS 17.5.1(iOS 18 - Soon)
+# Download Esign iOS - On Device iPA Signing Tool - iOS 12 - iOS 17.5.1(iOS 18 - Soon) V 5.0.2
 
-Esign iOS app is a tool used for signing iPA apps with Apple Developer/Distribution certificates and installing them.
+Esign iOS app is a tool for signing iPA apps with Apple Developer/Distribution certificates and installing them.
 
 Esign is a popular iPA sign tool that allows users to sign iPA files directly from their iPhone or iPad. To sign iPA files using this app, you must have an Apple Developer or a globally available Distribute certificate. The Esign iOS utility was supported from iOS 14 to the most recent iOS version, iOS 17.4. 
 To sign an iPA file, users must import and set the p12 and .mobileconfiguration files. 
 
-The key advantage of Esign is its time-saving nature. Users can sign iPA files without the need for a PC, a feature that promotes efficiency. Additionally, with your developer certificate, there's no need to resign iPA files to avoid 7-day app revocation, providing a sense of relief. 
+The key advantage of Esign is its time-saving nature. Users can sign iPA files without needing a PC, a feature that promotes efficiency. Additionally, with your developer certificate, there's no need to resign iPA files to avoid 7-day app revocation, providing a sense of relief. 
+
+## Esign iOS Checker
+
+Esign iOS Checker is a tool that helps iOS users determine if the Esign iOS app is compatible with their iDevice and iOS versions. The tool was developed by "@lar_S_far," the famous iOS security developer.
+
+Before you download the App please [Check Esign Compatibility](https://bit.ly/esign-checker)
 
 
 ## Download Esign iPA File
@@ -22,7 +28,7 @@ Size: 7.1 MB
 
 ## Why do we need the Esign iOS APP?
 
-The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts as apps. While some of these apps can be found in the official Apple app store, many developers are opting to release their useful iPhone apps through third-party stores or on a GitHub iPA Library. To access these apps, iPhone owners can use the Esign iOS App, a tool that allows for the installation of third-party programs outside of the Apple App Store. 
+The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts as apps. While some apps can be found in the official Apple app store, many developers are opting to release their useful iPhone apps through third-party stores or on a GitHub iPA Library. To access these apps, iPhone owners can use the Esign iOS App, a tool that allows for the installation of third-party programs outside of the Apple App Store. 
 
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
