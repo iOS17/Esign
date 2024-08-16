@@ -71,6 +71,19 @@ You must usually use PC signing methods like Sideloadly, AltStore, and TrollStor
 - Step 07: Download the desired IPA file and sign it with the certificate. (later, we will describe how to import certificates and sign ipa file)
 
 
+## How to Importing p12 certificate into Esign
+To use the Esign app, you must import an Apple Developer or distributor certificate file; you can learn more about it here.
+
+![How to Importing p12 certificate into Esign](https://github.com/user-attachments/assets/39954d70-338e-4ce3-9d1c-e335be49e26c)
+
+So once you have the Apple Developer or Distribute certificate file, you can sign IPA files for development or distribution purposes. However, the official method is to sign the iPA file Xcode using a MAC. Fortunately, the Esign app does the same thing without Using a MAC. So, with a valid Apple certificate, the Esign app is useful. Once you own the Apple certificate for Esign, it contains two files; One is Apple .P12, and the other is—a mobile provisioning file. So you need those two files imported into the Esign iOS app to Sign the iPA file correctly. 
+
+- Step 01: Import the downloaded Certificate file into Esign App ( You can open Esign App Settings > Import Resource > Select Downloaded Certificate Files > First Import .P12 File (It may require to enter the password of P12, please enter it)  then Import .mobileprovision File. 
+Or, if the certificate files are a zip file, you can directly share them with the Esign iOS app using the iPhone Share Option. (Tap on the downloaded Certificate Zip File > Tap On the Share button > Find Esign iOS app > Click on the Esign app icon to Share. 
+
+- Step 02: Once the Certificate file is imported (as a Zip File), Tap on the zip file to unzip it on the "File" menu. Open the unzipped folder, find the .P12 file, and tap" Import Certificate Management." It may ask for a P12 password. Could you enter it?
+
+- Step 03: Also import .mobileprovision. Thats its.
 
 
 
