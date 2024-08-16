@@ -35,6 +35,9 @@ The modern tech world is evolving rapidly, with new app developers constantly in
 
 You could use the Esign iOS App to install third-party applications. The team at yyyue.xyz created this device signing tool. 
 
+Read More: - [iOS 17 unc0ver jailbreak compatibility](https://github.com/iOS17/unc0ver-jailbreak/)
+- [iOS 15 - iOS 18.1 Dopamine jailbreak compatibility](https://github.com/iOS17/Dopamine-Jailbreak) 
+
 This tool supports all iPhone models, the most recent iOS version, and free Esign certificates available globally. You can use these free certificates to sign and install iPA files on your device. 
 
 Unlike AltStore, Sideloadly limitations, this tool will change the game by allowing iOS users to sign iPA files directly; neither user needs developer knowledge. 
