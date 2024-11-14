@@ -1,4 +1,4 @@
-# Download Esign iOS - On Device iPA Signing Tool - iOS 12 - iOS 17.5.1(iOS 18 ) V 5.0.2
+# Download Esign iOS - On Device iPA Signing Tool - iOS 12 - iOS 17.5.1(iOS 18.2 ) V 5.0.2
 
 The Esign iOS app is a tool for signing and installing iPA apps with Apple Developer/Distribution certificates.
 
@@ -99,6 +99,40 @@ Or, if the certificate files are a zip file, you can directly share them with th
 - Step 03: Drag & Drop the Downloaded Esign iPA file into the Sideloadly Tool(Or import the Esign iPA file into Sideloaldy).
 - Step 04: Connect your iDevice in to your PC and Tap the Start Button.
 - Step 05: Check the iDevice Home screen for the installed Esign iOS App.
+
+
+
+Esign iOS Compatible iOS Versions:
+
+**iPhones**
+iPhone 5, iPhone 5C
+iPhone 5S
+iPhone 6, iPhone 6 Plus
+iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation)
+iPhone 7, iPhone 7 Plus
+iPhone 8, iPhone 8 Plus, iPhone X
+iPhone XS, iPhone XS Max, iPhone XR
+iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max
+iPhone SE (2nd generation)
+iPhone 12, iPhone 12 Mini, iPhone 12 Pro, iPhone 12 Pro Max
+iPhone 13, iPhone 13 Mini, iPhone 13 Pro, iPhone 13 Pro Max
+iPhone SE (3rd generation)
+iPhone 14, iPhone 14 Plus
+iPhone 14 Pro, iPhone 14 Pro Max
+iPhone 15, iPhone 15 Plus
+iPhone 15 Pro, iPhone 15 Pro Max
+
+**iPads**
+iPad Air (1st generation)
+iPad Mini 2, iPad Mini 3
+iPad Mini 4
+iPad Air (2nd generation)
+iPad (5th generation)
+iPad Pro (9.7-inch, 1st generation)
+iPad Pro (12.9-inch, 1st generation)
+iPad (6th generation)
+iPad Pro (10.5-inch)
+iPad Pro (12.9-inch, 2nd generation)
 
 
 
