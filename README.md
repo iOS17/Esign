@@ -147,6 +147,17 @@ iPhone 15 Pro, iPhone 15 Pro Max
 - iOS 11.4.1 / iOS 11.4 / iOS 11.3.1 / iOS 11.3 / iOS 11.2.6 / iOS 11.2.5 / iOS 11.2.2 / iOS 11.2.1 / iOS 11.2 / iOS 11.1.2 / iOS 11.1.1 / iOS 11.1 / iOS 11
 
 
+## What great apps can you install using eSign?
+
+You can install the following iPA files and TiPA files(TrollStore) using the Esign iOS app. Import them into the App library, sign them with the certificate, and install them. 
+
+**TrollStore iPA's**
+
+- Aemulo is a remarkable jailbreak tweak designed to enhance the functionality of the iPhone wallet app by seamlessly integrating users' favorite       frequently used NCF cards. Recently, Amy, a developer from the Aemulo team, released a TiPA file specifically for Trollstore users. This means        you can now install Aemulo on non-jailbroken devices through Esign and Trollstore, broadening access to its features.
+
+- [Download Aemulo iPA](https://zeejb.com/ipa/trollstore-ipas/aemulo/) -
+- [Download Aemulo iPA - Git](https://github.com/IPAlibrary)- 
+
 
 
 
