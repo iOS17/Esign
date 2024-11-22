@@ -1,4 +1,4 @@
-# Download Esign iOS - On Device iPA Signing Tool - iOS 12 - iOS 17.5.1(iOS 18.2 ) V 5.0.2
+# Download Esign iOS - On Device iPA Signing Tool - iOS 12 - iOS 17.6.1(iOS 18.2 ) V 5.0.2
 
 The Esign iOS app is a tool for signing and installing iPA apps with Apple Developer/Distribution certificates.
 
@@ -9,7 +9,7 @@ The key advantage of Esign is its time-saving nature. Users can sign iPA files w
 
 ## Esign iOS Checker
 
-Esign iOS Checker is a tool that helps iOS users determine if the Esign iOS app is compatible with their iDevice and iOS versions. The tool was developed by "@lar_S_far," the famous iOS security developer.
+Esign iOS Checker is a tool that helps iOS users determine whether the Esign iOS app is compatible with their iDevice and iOS versions. It was developed by @lar_S_far, the famous iOS security developer.
 
 Before you download the App please [Check Esign Compatibility](https://bit.ly/kekukEsignChecker)
 
@@ -123,17 +123,28 @@ iPhone 15, iPhone 15 Plus
 iPhone 15 Pro, iPhone 15 Pro Max
 
 **iPads**
-iPad Air (1st generation)
-iPad Mini 2, iPad Mini 3
-iPad Mini 4
-iPad Air (2nd generation)
-iPad (5th generation)
-iPad Pro (9.7-inch, 1st generation)
-iPad Pro (12.9-inch, 1st generation)
-iPad (6th generation)
-iPad Pro (10.5-inch)
-iPad Pro (12.9-inch, 2nd generation)
+- iPad Air (1st generation)
+- iPad Mini 2, iPad Mini 3
+- iPad Mini 4
+- iPad Air (2nd generation)
+- iPad (5th generation)
+- iPad Pro (9.7-inch, 1st generation)
+- iPad Pro (12.9-inch, 1st generation)
+- iPad (6th generation)
+- iPad Pro (10.5-inch)
+- iPad Pro (12.9-inch, 2nd generation)
 
+## Esign Compatible iOS Versions: 
+
+- iOS 18/ iOS 18.1, iOS 18.2
+- iOS 17/iOS 17.1/iOS 17.2 / iOS 17.3/iOS 17.4/ iOS 17.4/ iOS 17.5
+- iOS 16/iOS 16.1/iOS 16.2/iOS 16.3/iOS 16.4 / iOS 16.4.1/iOS 16.5 / iOS 16.6
+- iOS 15/iOS 15.1/iOS 15.2/iOS 15.3/iOS 15.4/iOS 15.5/iOS 15.6
+- iOS 14/ iOS 14.1/ iOS 14.2/ iOS 14.3/ iOS 14.4/ iOS 14.5/ iOS 14.6/ iOS 14.7/ iOS 14.8/
+- iOS 13.5.5beta, iOS 13.5, iOS 13.4.1, and iOS 13.4 
+- iOS 13.3.1 / iOS 13.3 / iOS 13.2.3 / iOS 13.2 / iOS 13.1.3 / iOS 13.1.2 / iOS 13.1.1 / iOS 13.1 / iOS 13
+- iOS 12.4.8/iOS 12.4.1 / iOS 12.4 / iOS 12.2 / iOS 12.1.4 / iOS 12.1.3 / iOS 12.1.2 / iOS 12.1 / iOS 12.0.1 / iOS 12
+- iOS 11.4.1 / iOS 11.4 / iOS 11.3.1 / iOS 11.3 / iOS 11.2.6 / iOS 11.2.5 / iOS 11.2.2 / iOS 11.2.1 / iOS 11.2 / iOS 11.1.2 / iOS 11.1.1 / iOS 11.1 / iOS 11
 
 
 
