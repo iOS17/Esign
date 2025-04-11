@@ -1,4 +1,4 @@
-# Download Esign iOS - On Device iPA Signing Tool - iOS 12 - iOS 17.7.1(iOS 18.3 ) V 5.0.2
+# Download Esign iOS - On Device iPA Signing Tool - iOS 12 - iOS 17.7.1(iOS 18.4 ) V 5.0.2
 
 The Esign iOS app is a tool for signing and installing iPA apps with Apple Developer/Distribution certificates.
 
@@ -163,6 +163,14 @@ You can install the following iPA files and TiPA files(TrollStore) using the Esi
 - [Download Aemulo iPA - Git](https://github.com/IPAlibrary)- 
 
 
+**Note** - The EasySign server is about to expire and will not be renewed in the future!
+It is recommended to change the signature software.
+
+As a free tool, EasySign hereby makes the following disclaimer:
+First of all, EasySign is completely disconnected from any paid certificates or paid software sources, and there is no cooperation or operation related to them.
+Secondly, when using the various functions provided by EasySign, no matter what problems arise, whether they are caused by technical failures, operational errors or other unexpected circumstances, the corresponding responsibilities shall be borne by the user, and the author of EasySign and related affiliates shall not bear any compensation, coordination and other responsibilities. 
+
+Finally, users are responsible for strictly abiding by relevant national laws and regulations and shall not use the services provided by EasySign for any illegal or irregular activities. Once a user violates this provision, all legal consequences arising therefrom, such as facing legal proceedings, bearing economic compensation, and being subject to legal sanctions, shall be borne by the user himself, and EasySign will not be responsible for such consequences caused by the user's illegal and irregular behavior.
 
 
 
