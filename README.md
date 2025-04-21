@@ -1,11 +1,11 @@
-# Download Esign iOS - On Device iPA Signing Tool - iOS 12 - iOS 17.7.1(iOS 18.4 ) V 5.0.2
+# Download Esign iOS - On Device iPA Signing Tool - iOS 18.4.1(17.7.1) - iOS 12 V 5.0.2
 
 The Esign iOS app is a tool for signing and installing iPA apps with Apple Developer/Distribution certificates.
 
-Esign is a popular iPA sign tool that allows users to sign iPA files directly from their iPhone or iPad. To sign iPA files using this app, you must have an Apple Developer or a globally available Distribute certificate. The Esign iOS utility was supported from iOS 14 to the most recent iOS version, iOS 17.4. 
+Esign is a popular iPA sign tool that allows users to sign iPA files directly from their iPhone or iPad. To sign iPA files using this app, you must have an Apple Developer or a globally available free Distribute certificate. The Esign iOS utility was supported from iOS 14 to the most recent iOS version, iOS 17.7.6 & iOS 18.5 beta 
 To sign an iPA file, users must import and set the p12 and .mobileconfiguration files. 
 
-The key advantage of Esign is its time-saving nature. Users can sign iPA files without needing a PC, a feature that promotes efficiency. Additionally, with your developer certificate, there's no need to resign iPA files to avoid 7-day app revocation, providing a sense of relief. 
+The key advantage of Esign is its time-saving nature. Users can sign iPA files without needing a PC, a feature that promotes efficiency. Also, with your developer certificate, you don't need to resign iPA files within 7 days. 
 
 
 Get Esign Free Certificates - [https://t.me/P12Certificate](https://t.me/P12Certificate)
@@ -15,7 +15,7 @@ Get Esign Free Certificates - [https://t.me/P12Certificate](https://t.me/P12Cert
 
 Esign iOS Checker is a tool that helps iOS users determine whether the Esign iOS app is compatible with their iDevice and iOS versions. @lar_S_far, the famous iOS security developer, developed it.
 
-Before you download the App please [Check Esign Compatibility](https://bit.ly/kekukEsignChecker)
+Before you download the App, please [Check Esign Compatibility](https://bit.ly/kekukEsignChecker)
 
 
 ## Download Esign iPA File
