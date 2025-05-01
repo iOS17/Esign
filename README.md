@@ -1,4 +1,4 @@
-# Download Esign iOS - On Device iPA Signing Tool - iOS 18.4.1(17.7.1) - iOS 12 V 5.0.2
+# Download Esign iOS - On Device iPA Signing Tool - iOS 18.5, 18.4.1(17.7.1) - iOS 12 V 5.0.2
 
 The Esign iOS app is a tool for signing and installing iPA apps with Apple Developer/Distribution certificates.
 
@@ -13,7 +13,7 @@ Get Esign Free Certificates - [https://t.me/P12Certificate](https://t.me/P12Cert
 
 ## Esign iOS Checker
 
-Esign iOS Checker is a tool that helps iOS users determine whether the Esign iOS app is compatible with their iDevice and iOS versions. @lar_S_far, the famous iOS security developer, developed it.
+Esign iOS Checker is a tool that helps iOS users determine whether the Esign iOS app is compatible with their device and iOS versions. @lar_S_far, the famous iOS security developer, developed it.
 
 Before you download the App, please [Check Esign Compatibility](https://bit.ly/kekukEsignChecker)
 
@@ -47,7 +47,7 @@ This tool supports all iPhone models, the most recent iOS version, and free Esig
 Unlike AltStore, Sideloadly limitations, this tool will change the game by allowing iOS users to sign iPA files directly; neither user needs developer knowledge. 
 The best part is that you don't need a jailbroken iPhone or iPad. This tool can be used with or without Jailbreak. 
 
-To sign and install the IPA file on your iDevice, Esign requires a .p12 certificate. As mentioned, you can use the globally available free certificate by following the link. However, those certificates are likely to be revoked quickly due to Apple's new cert revoke mechanism. Once Apple revokes the certificate, your installed iPA apps also get revoked, which means you need to resign them with a new free certificate. 
+To sign and install the IPA file on your iDevice, Esign requires a .p12 certificate. As mentioned, you can use the globally available free certificate by following the link. However, those certificates will likely be revoked quickly due to Apple's new cert revoke mechanism. Once Apple revokes the certificate, your installed iPA apps also get revoked, meaning you must resign them with a new free certificate. 
 
 We strongly advise you to buy high-quality certificates from legitimate certificate-selling services. 
 Here are some of them:
@@ -140,7 +140,7 @@ iPhone 15 Pro, iPhone 15 Pro Max
 
 ## Esign Compatible iOS Versions: 
 
-- iOS 18/ iOS 18.1, iOS 18.2
+- iOS 18/ iOS 18.1, iOS 18.2, iOS 18.3, iOS 18.4, iOS 18.5
 - iOS 17/iOS 17.1/iOS 17.2 / iOS 17.3/iOS 17.4/ iOS 17.4/ iOS 17.5
 - iOS 16/iOS 16.1/iOS 16.2/iOS 16.3/iOS 16.4 / iOS 16.4.1/iOS 16.5 / iOS 16.6
 - iOS 15/iOS 15.1/iOS 15.2/iOS 15.3/iOS 15.4/iOS 15.5/iOS 15.6
