@@ -153,18 +153,26 @@ iPhone 15 Pro, iPhone 15 Pro Max
 
 ## What great apps can you install using eSign?
 
-You can install the following iPA files and TiPA files(TrollStore) using the Esign iOS app. Import them into the App library, sign them with the certificate, and install them. 
+You can install the following IPA and TiPA files(TrollStore) using the Esign iOS app. Import them into the App library, sign them with the certificate, and install them. 
 
 **TrollStore iPA's**
 
-- Aemulo is a remarkable jailbreak tweak designed to enhance the functionality of the iPhone wallet app by seamlessly integrating users' favorite       frequently used NCF cards. Recently, Amy, a developer from the Aemulo team, released a TiPA file specifically for Trollstore users. This means        you can now install Aemulo on non-jailbroken devices through Esign and Trollstore, broadening access to its features.
+- Aemulo is a remarkable jailbreak tweak designed to enhance the functionality of the iPhone wallet app by seamlessly integrating users' favorite,       frequently used NCF cards. Recently, Amy, a developer from the Aemulo team, released a TiPA file specifically for Trollstore users. This means        you can now install Aemulo on non-jailbroken devices through Esign and Trollstore, broadening access to its features.
 
 - [Download Aemulo iPA](https://zeejb.com/ipa/trollstore-ipas/aemulo/) -
 - [Download Aemulo iPA - Git](https://github.com/IPAlibrary)- 
 
 
-**Note** - The EasySign server is about to expire and will not be renewed in the future!
-It is recommended to change the signature software.
+### What iPA files can we install with Esign iOS?
+
+By using the Esign iOS app, you can install the following apps:
+
+> [How to install rootHide Jailbreak Detection Bypass Tool via Esign ](https://github.com/iOS17/roothide-jailbreak/)
+
+
+
+> [!WARNING] **Note** - The EasySign server is about to expire and will not be renewed soon!
+It is recommended that the signature software be changed.
 
 As a free tool, EasySign hereby makes the following disclaimer:
 First of all, EasySign is completely disconnected from any paid certificates or paid software sources, and there is no cooperation or operation related to them.
