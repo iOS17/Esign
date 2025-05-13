@@ -1,11 +1,12 @@
-# Download Esign iOS - On Device iPA Signing Tool - iOS 18.5, 18.4.1(17.7.1) - iOS 12 V 5.0.2
+# Download Esign iOS - On Device iPA Signing Tool - iOS 18.5, 18.4.1(17.7.1) V 5.0.2
 
-The Esign iOS app is a tool for signing and installing iPA apps with Apple Developer/Distribution certificates.
+The Esign iOS app is a tool for signing and installing iOS IPA apps with Apple Developer/Distribution certificates.
 
-Esign is a popular iPA sign tool that allows users to sign iPA files directly from their iPhone or iPad. To sign iPA files using this app, you must have an Apple Developer or a globally available free Distribute certificate. The Esign iOS utility was supported from iOS 14 to the most recent iOS version, iOS 17.7.6 & iOS 18.5 beta 
-To sign an iPA file, users must import and set the p12 and .mobileconfiguration files. 
+Esign is a popular IPA sign tool that allows users to sign and install IPA files directly from their iPhone or iPad. To sign IPA files using this app, you must have an Apple Developer account or a globally available free Distribute certificate. The Esign iOS utility was supported from iOS 14 to the most recent iOS versions, iOS 17.7.6 and iOS 18.5 beta.
 
-The key advantage of Esign is its time-saving nature. Users can sign iPA files without needing a PC, a feature that promotes efficiency. Also, with your developer certificate, you don't need to resign iPA files within 7 days. 
+Users must import and set the .p12 and .mobileconfiguration files to sign an IPA file. 
+
+The key advantage of Esign is its time-saving nature. Users can sign iPA files without needing a PC, a feature that promotes efficiency. Also, with your developer certificate, you don't need to resign IPA files within 7 days. 
 
 
 Get Esign Free Certificates - [https://t.me/P12Certificate](https://t.me/P12Certificate)
@@ -13,26 +14,26 @@ Get Esign Free Certificates - [https://t.me/P12Certificate](https://t.me/P12Cert
 
 ## Esign iOS Checker
 
-Esign iOS Checker is a tool that helps iOS users determine whether the Esign iOS app is compatible with their device and iOS versions. @lar_S_far, the famous iOS security developer, developed it.
+Esign iOS Checker is a tool that helps iOS users determine whether the Esign iOS app is compatible with their device and iOS versions. It was developed by @lar_S_far, the famous iOS security developer.
 
 Before you download the App, please [Check Esign Compatibility](https://bit.ly/kekukEsignChecker)
 
 
 ## Download Esign iPA File
 
-Last updated: Jan 28, 2024
+Last updated: Jan 28, 2024 - checked by 2025 May 13
 
 Version: 5.0.2
 
 Size: 7.1 MB
 
-[Download Esign v 5.0.2 IPA - Link 1 ](https://ipa.zeejb.com/temp5/productCopy.php?app=Esign)
+[Download Esign v 5.0.2 IPA - Link 1 ](https://ipa.zeejb.com/ipa.php?app=Esign&id=3175)
 [Download Esign v 5.0.2 IPA - Link 2 ](https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa)
 
 
 ## Why do we need the Esign iOS APP?
 
-The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts as apps. While some apps can be found in the official Apple app store, many developers are opting to release their useful iPhone apps through third-party stores or on a GitHub iPA Library. To access these apps, iPhone owners can use the Esign iOS App, a tool that allows for the installation of third-party programs outside of the Apple App Store. 
+The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts as apps. While some apps can be found in the official Apple App Store, many developers are opting to release their useful iPhone apps through third-party stores or on a GitHub IPA Library. To access these apps, iPhone owners can use the Esign iOS App, a tool that allows installing third-party programs outside of the Apple App Store. 
 
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
@@ -42,12 +43,12 @@ You could use the Esign iOS App to install third-party applications. The team at
 Read More: - [iOS 17 unc0ver jailbreak compatibility](https://github.com/iOS17/unc0ver-jailbreak/)
 - [iOS 15 - iOS 18.1 Dopamine jailbreak compatibility](https://github.com/iOS17/Dopamine-Jailbreak) 
 
-This tool supports all iPhone models, the most recent iOS version, and free Esign certificates available globally. You can use these free certificates to sign and install iPA files on your device. 
+This tool supports all iPhone models, the most recent iOS version, and free Esign certificates available globally. You can use these free certificates to sign and install IPA files on your device. 
 
-Unlike AltStore, Sideloadly limitations, this tool will change the game by allowing iOS users to sign iPA files directly; neither user needs developer knowledge. 
-The best part is that you don't need a jailbroken iPhone or iPad. This tool can be used with or without Jailbreak. 
+Unlike AltStore and Sideloadly's limitations, this tool will change the game by allowing iOS users to sign IPA files directly; neither user needs developer knowledge. 
+The best part is that you don't need a jailbroken iPhone or iPad. This tool can be used with or without a Jailbreak. 
 
-To sign and install the IPA file on your iDevice, Esign requires a .p12 certificate. As mentioned, you can use the globally available free certificate by following the link. However, those certificates will likely be revoked quickly due to Apple's new cert revoke mechanism. Once Apple revokes the certificate, your installed iPA apps also get revoked, meaning you must resign them with a new free certificate. 
+To sign and install the IPA file on your iDevice, Esign requires a .p12 certificate. As mentioned, you can use the globally available free certificate by following the link. However, those certificates will likely be revoked quickly due to Apple's new cert revoke mechanism. Once Apple revokes the certificate, your installed IPA apps also get revoked, meaning you must resign them with a new free certificate. 
 
 We strongly advise you to buy high-quality certificates from legitimate certificate-selling services. 
 Here are some of them:
