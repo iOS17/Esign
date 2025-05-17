@@ -1,10 +1,10 @@
 # Ultimate Guide to Esign iOS: Download, Install on iOS 18.5 and Beyond(2025)
 
-The Esign iOS App is a powerful iPA signing tool compatible with iOS 18.5 and earlier versions. It is a free, user-friendly on-device iPA signing tool and iPA installer, so anyone can install it without requiring a computer or Jailbreak. 
+The Esign iOS App is a powerful IPA signing tool compatible with iOS 18.5 and earlier versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, so anyone can install it without requiring a computer or a Jailbreak. 
 
 The Esign iOS app is a tool for signing and installing iOS IPA apps with Apple Developer/Distribution certificates.
 
-Esign is a popular IPA sign tool that allows users to sign and install IPA files directly from their iPhone or iPad. To sign IPA files using this app, you must have an Apple Developer account or a globally available free Distribute certificate. The Esign iOS utility was supported from iOS 14 to the most recent iOS versions, iOS 17.7.6 and iOS 18.5 beta.
+Esign is a popular IPA sign tool that allows users to sign and install IPA files directly from their iPhone or iPad. You must have an Apple Developer account or a globally available free Distribute certificate to sign IPA files using this app. The Esign iOS utility was supported from iOS 14 to the most recent iOS versions, iOS 17.7.6 and iOS 18.5 beta.
 
 Users must import and set the .p12 and .mobileconfiguration files to sign an IPA file. 
 
@@ -33,7 +33,7 @@ Size: 7.1 MB
 
 ## Why do we need the Esign iOS APP?
 
-The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts as apps. While some apps can be found in the official Apple App Store, many developers are opting to release their useful iPhone apps through third-party stores or on a GitHub IPA Library. To access these apps, iPhone owners can use the Esign iOS App, a tool that allows installing third-party programs outside of the Apple App Store. 
+The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts as apps. While some apps can be found in the official Apple App Store, many developers opt to release their useful iPhone apps through third-party stores or on a GitHub IPA Library. To access these apps, iPhone owners can use the Esign iOS App, which allows third-party programs outside the Apple App Store to be installed. 
 
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
@@ -50,16 +50,16 @@ The best part is that you don't need a jailbroken iPhone or iPad. This tool can 
 
 To sign and install the IPA file on your iDevice, Esign requires a .p12 certificate. As mentioned, you can use the globally available free certificate by following the link. However, those certificates will likely be revoked quickly due to Apple's new cert revoke mechanism. Once Apple revokes the certificate, your installed IPA apps also get revoked, meaning you must resign them with a new free certificate. 
 
-We strongly advise you to buy high-quality certificates from legitimate certificate-selling services. 
+We strongly suggest that you buy high-quality certificates from legitimate certificate-selling services. 
 Here are some of them:
 [udidmaster.com](https://udidmaster.com) 
 [u04s.com](https://u04s.com)
-[zee signer certificates. ](https://esigncert.zeejb.com/)
+[Zee signer certificates. ](https://esigncert.zeejb.com/)
 
 Once you have premium .p12 and .mobileprovision files, the apps will not get revoked and will work for a long time.
 
-## How to install the Esign iOS App?
-The Esign app was released as an iPA file. To install it, users need to sign and install the app on their iDevice. You can install the Esign app using multiple methods. 
+## How do I install the Esign iOS app?
+The Esign app was released as an IPA file. Users need to sign and install the app on their iOS device. There are multiple methods for installing the Esign app. 
 
 Here are the most popular and most accessible methods. 
 
@@ -67,16 +67,16 @@ Here are the most popular and most accessible methods.
 
 ![How to install Esign iOS app, free certificate](https://github.com/iOS17/Esign/assets/135683347/c2d21c1c-817b-497a-a5dd-a144b20207dc)
 
-You must usually use PC signing methods like Sideloadly, AltStore, and TrollStore tools to install the Esign app. But with the help of the EsignPatch app, you can install the Esign app without a PC. The main advantage of this is that users don't need to buy an Apple Developer Certificate after installation. The EsignPatch Team will also deliver the Premium Developer certificate along with the app installation process.
+You must usually use PC signing methods like Sideloadly, AltStore, and TrollStore tools to install the Esign app. But with the help of the EsignPatch app, you can install the Esign app without a PC. The main advantage is that users don't need to buy an Apple Developer Certificate after installation. The EsignPatch Team will also deliver the Premium Developer certificate and the app installation process.
 
 - Step 01: [Download the EsignPatch](https://zeejb.com/esign/cdn/app/EsignPatch.mobileconfig) app and install it via iPhone Settings (Please use iPhone Safari Browser)
 (Open iPhone Settings app -> General -> VPN & Device Management -> Esign Patch -> Install -> Enter Device Passcode(If Required) -> Install -> Install -> Done)
 - Step 02: Open the E-Sign Patch app on the device's home screen
 - Step 03: Run Patch 1 (Free Patcher), it will take some time to add the patch files
 - Step 04: You will be prompted to install the free version of the Esign app. We recommend choosing the premium version to avoid revocation.) 
-- Step 05: Open https://esigncert.zeejb.com/ and download the necessary certificates. Rest assured, these certificates are safe and essential for the app's functionality. If you're comfortable with a potential revoke risk, you can opt for the free certificates. Otherwise, we recommend getting the premium certificate for added security.)
-- Step 06: Navigate into the Esign settings tab and import the certificate and .p12 files.
-- Step 07: Download the desired IPA file and sign it with the certificate. (later, we will describe how to import certificates and sign ipa file)
+- Step 05: Open https://esigncert.zeejb.com/ and download the necessary certificates. Please don't worry, these certificates are safe and essential for the app's functionality. You can opt for the free certificates if you're comfortable with a potential revocation risk. Otherwise, we recommend getting the premium certificate for added security.)
+- Step 06: Navigate to the Esign settings tab and import the certificate and .p12 files.
+- Step 07: Download the desired IPA file and sign it with the certificate. (Later, we will describe how to import certificates and sign ipa file)
 
 
 ## How to Importing p12 certificate into Esign
@@ -84,15 +84,15 @@ To use the Esign app, you must import an Apple Developer or distributor certific
 
 ![How to Importing p12 certificate into Esign](https://github.com/user-attachments/assets/39954d70-338e-4ce3-9d1c-e335be49e26c)
 
-So once you have the Apple Developer or Distribute certificate file, you can sign IPA files for development or distribution purposes. However, the official method is to sign the iPA file Xcode using a MAC. Fortunately, the Esign app does the same thing without Using a MAC. So, with a valid Apple certificate, the Esign app is useful. Once you own the Apple certificate for Esign, it contains two files; One is Apple .P12, and the other is—a mobile provisioning file. So you need those two files imported into the Esign iOS app to Sign the iPA file correctly. 
+So once you have the Apple Developer or Distribute certificate file, you can sign IPA files for development or distribution purposes. However, the official method is to sign the IPA file in Xcode using a MAC. Fortunately, the Esign app does the same thing without Using a MAC. So, with a valid Apple certificate, the Esign app is useful. Once you own the Apple certificate for Esign, it contains two files; One is Apple .P12, and the other is—a mobile provisioning file. So you need those two files imported into the Esign iOS app to Sign the iPA file correctly. 
 
-- Step 01: Import the downloaded Certificate file into Esign App ( You can open Esign App Settings > Import Resource > Select Downloaded Certificate Files > First Import .P12 File (It may require to enter the password of P12, please enter it)  then Import .mobileprovision File. 
-Or, if the certificate files are a zip file, you can directly share them with the Esign iOS app using the iPhone Share Option. (Tap on the downloaded Certificate Zip File > Tap On the Share button > Find Esign iOS app > Click on the Esign app icon to Share.
+Step 01: Import the downloaded Certificate file into the Esign App ( You can open Esign App Settings > Import Resource > Select Downloaded Certificate Files > First Import .P12 File) (It may require entering the P12 password; please enter it), then Import. mobile provision File. 
+Or, if the certificate files are a zip file, you can directly share them with the Esign iOS app using the iPhone Share Option. (Tap on the downloaded Certificate Zip File > Tap on the Share button > Find Esign iOS app > Click on the Esign app icon to Share.
 
 ![image](https://github.com/user-attachments/assets/30bb3048-7501-4780-b1c6-0532f67b8fb4)
 
 
-- Step 02: Once the Certificate file is imported (as a Zip File), Tap on the zip file to unzip it on the "File" menu. Open the unzipped folder, find the .P12 file, and tap" Import Certificate Management." It may ask for a P12 password. Could you enter it?
+- Step 02: Once the Certificate file is imported (as a Zip File), tap on the zip file to unzip it on the "File" menu. Open the unzipped folder, find the  .P12 file, and tap" Import Certificate Management." It may ask for a P12 password. Could you enter it?
 
 - Step 03: Also import .mobileprovision. Thats its.
 
@@ -126,6 +126,8 @@ iPhone 14, iPhone 14 Plus
 iPhone 14 Pro, iPhone 14 Pro Max
 iPhone 15, iPhone 15 Plus
 iPhone 15 Pro, iPhone 15 Pro Max
+iPhone 16, iPhone 16 Plus
+iPhone 16 Pro, iPhone 16 Pro Max
 
 **iPads**
 - iPad Air (1st generation)
@@ -150,6 +152,17 @@ iPhone 15 Pro, iPhone 15 Pro Max
 - iOS 13.3.1 / iOS 13.3 / iOS 13.2.3 / iOS 13.2 / iOS 13.1.3 / iOS 13.1.2 / iOS 13.1.1 / iOS 13.1 / iOS 13
 - iOS 12.4.8/iOS 12.4.1 / iOS 12.4 / iOS 12.2 / iOS 12.1.4 / iOS 12.1.3 / iOS 12.1.2 / iOS 12.1 / iOS 12.0.1 / iOS 12
 - iOS 11.4.1 / iOS 11.4 / iOS 11.3.1 / iOS 11.3 / iOS 11.2.6 / iOS 11.2.5 / iOS 11.2.2 / iOS 11.2.1 / iOS 11.2 / iOS 11.1.2 / iOS 11.1.1 / iOS 11.1 / iOS 11
+
+
+| Feature              | Esign iOS         | AltStore          | Sideloadly        |
+|----------------------|-------------------|-------------------|-------------------|
+| **PC-Free Installation** | Yes               | No                | No                |
+| **Jailbreak Required**   | No                | No                | No                |
+| **Certificate Duration** | Up to 1 year      | 7 days (free)     | 7 days (free)     |
+| **Ease of Use**          | Beginner-Friendly | Moderate          | Advanced          |
+
+
+
 
 
 ## What great apps can you install using eSign?
