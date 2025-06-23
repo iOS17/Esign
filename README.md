@@ -11,8 +11,7 @@ Users must import and set the .p12 and .mobileconfiguration files to sign an IPA
 The key advantage of Esign is its time-saving nature. Users can sign iPA files without needing a PC, a feature that promotes efficiency and convenience. Additionally, with your developer certificate, you are no longer required to resign IPA files within 7 days. 
 
 
-Get E-Sign Free Certificates - [Generate Via Telegram Bot - @p12certificategenbot](t.me/p12certificategenbot)
-
+Get E-Sign Free Certificates - [Generate Via Telegram Bot](https://t.me/p12certificategenbot)
 Via Telegram - [https://t.me/P12Certificate](https://t.me/P12Certificate)
 
 
