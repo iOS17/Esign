@@ -1,6 +1,6 @@
 # Ultimate Guide to Esign iOS: Download, Install on iOS 26,18,17,16 and Beyond(2025) - Free P12 Certificate
 
-The Esign iOS App is a powerful IPA signing tool compatible with iOS 26, 18.7, 17.8, 1,6, and below versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, so anyone can install it without requiring a computer or a Jailbreak. 
+The Esign iOS App is a powerful IPA signing tool compatible with iOS 26 (iOS 26 beta 4), 18.7.2, 17.8, 16.6.1, and below versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, so anyone can install it without requiring a computer or a Jailbreak. 
 
 The Esign iOS app is a tool for signing and installing & injecting dylib in iOS IPA apps with Apple Developer/Distribution certificates.
 
