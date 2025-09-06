@@ -1,6 +1,6 @@
 # Ultimate Guide to Esign iOS: Download, Install on iOS 26,18,17,16 and Beyond(2025) - Free P12 Certificate
 
-The Esign iOS App is a powerful IPA signing tool compatible with iOS 26 (iOS 26 beta 4), 18.7.2, 17.8, 16.6.1, and below versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, so anyone can install it without requiring a computer or a Jailbreak. 
+The Esign iOS App is a powerful IPA signing tool compatible with iOS 26 (iOS 26 beta 9), 18.6.2, 17.8, 16.7.11, and below versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, allowing anyone to install it without needing a computer or a Jailbreak. 
 
 The Esign iOS app is a tool for signing and installing & injecting dylib in iOS IPA apps with Apple Developer/Distribution certificates.
 
@@ -9,11 +9,11 @@ Learn More:
 [unc0ver jailbreak for iOS 26 beta?](https://github.com/iOS17/unc0ver-jailbreak)
 
 
-Esign is a popular IPA sign tool that allows users to sign and install IPA files directly from their iPhone or iPad. You must have an Apple Developer account or a globally available free Distribute certificate to sign IPA files using this app. The Esign iOS utility was supported on iOS 14 through the most recent iOS versions, including iOS 17.7.6, iOS 18.5, and iOS 26 beta.
+Esign is a popular IPA sign tool that allows iOS users to sign and install IPA files directly from their iPhone or iPad. You must have an Apple Developer account or a globally available free Distribute certificate to sign IPA files using this app. The Esign iOS utility was supported on iOS 14 through the most recent iOS versions, including iOS 17.8, iOS 18.6, and iOS 26 beta.
 
 Users must import and set the .p12 and .mobileconfiguration files to sign an IPA file. 
 
-The key advantage of Esign is its time-saving nature. Users can sign IPA files without needing a PC, a feature that promotes efficiency and convenience. Additionally, with your developer certificate, you are no longer required to resign IPA files within 7 days. 
+The key advantage of Esign is its time-saving nature. Users can sign IPA files without needing a PC, a feature that promotes efficiency and convenience. Additionally, with your developer certificate, you are no longer required to resign IPA files within 7 days(like [Sideloadly iPA Signing](https://github.com/iOS17/sideloadly)). 
 
 
 Get E-Sign Free Certificates - [Generate Via Telegram Bot](https://t.me/p12certificategenbot)
@@ -33,12 +33,12 @@ Version: 5.0.2
 Size: 7.1 MB
 
 [Download Esign v 5.0.2 IPA - Link 1 ](https://ipa.zeejb.com/ipa.php?app=Esign&id=3175)
-[Download Esign v 5.0.2 IPA - Link 2 ](https://pan.yyyue.xyz/d/esign/esign_5.0.2_unsigned.ipa)
+[Download Esign v 5.0.2 IPA - Link 2 ](https://ipa.kekuk.com/download.php?id=3175)
 
 
 ## Why do we need the Esign iOS APP?
 
-The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts in the form of apps. While some apps can be found in the official Apple App Store, many developers opt to release their useful iPhone apps through third-party stores or on a GitHub IPA Library. To access these apps, iPhone owners can use the Esign iOS App, which allows third-party programs outside the Apple App Store to be installed. 
+The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts in the form of apps. While some apps can be found in the official [**Apple App Store**](https://www.apple.com/app-store/), many developers opt to release their useful iPhone apps through third-party stores or on a [GitHub IPA Library](https://github.com/IPAlibrary/IPA). To access these apps, iPhone owners can use the Esign iOS App, which allows third-party programs outside the Apple App Store to be installed. 
 
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 26, 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
@@ -72,7 +72,7 @@ Here are the most popular and most accessible methods.
 
 ![How to install Esign iOS app, free certificate](https://github.com/iOS17/Esign/assets/135683347/c2d21c1c-817b-497a-a5dd-a144b20207dc)
 
-You usually need to use PC signing methods like Sideloadly, AltStore, and TrollStore tools to install the Esign app. But with the help of the EsignPatch app, you can install the Esign app without a PC. The main advantage is that users don't need to buy an Apple Developer Certificate after installation. The EsignPatch Team will also deliver the Premium Developer certificate and the app installation process.
+You usually need to use PC signing methods like Sideloadly, AltStore, and TrollStore tools to install the Esign app. But with the help of the EsignPatch app, you can install the Esign app without a PC. The main advantage is that users don't need to buy an Apple Developer Certificate after installation. The EsignPatch Team will also deliver the Premium Developer certificate and guide you through the app installation process.
 
 - Step 01: [Download the EsignPatch](https://zeejb.com/esign/cdn/app/EsignPatch.mobileconfig) app and install it via iPhone Settings (Please use iPhone Safari Browser)
 (Open iPhone Settings app -> General -> VPN & Device Management -> Esign Patch -> Install -> Enter Device Passcode(If Required) -> Install -> Install -> Done)
