@@ -1,12 +1,13 @@
-# Ultimate Guide to Esign iOS: Download, Install on iOS 26,18,17,16 and Beyond(2025) - Free P12 Certificate
+# Ultimate Guide to Esign iOS: Download, Install on iOS 26.1, iOS 18.7, iOS 17.7.10, iOS 16.7.12 and Beyond(2025) - Free P12 Certificate
 
-The Esign iOS App is a powerful IPA signing tool compatible with iOS 26 (iOS 26 beta 9), 18.6.2, 17.8, 16.7.11, and below versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, allowing anyone to install it without needing a computer or a Jailbreak. 
+The Esign iOS App is a powerful IPA signing tool compatible with iOS 26.1 (iOS 26.1 beta 3), 18.7.1, 17.7.10, 16.7.12, and below versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, allowing anyone to install it without needing a computer or a Jailbreak. 
 
 The Esign iOS app is a tool for signing and installing & injecting dylib in iOS IPA apps with Apple Developer/Distribution certificates.
 
 Learn More:
 [iOS 26 Jailbreak Guide](https://github.com/iOS17/Jailbreak-iOS-26)
 [unc0ver jailbreak for iOS 26 beta?](https://github.com/iOS17/unc0ver-jailbreak)
+[Ksign iOS for iOS 26.1 beta - Sideload Any iPA file](https://github.com/iOS17/Ksign-iOS)
 
 
 Esign is a popular IPA sign tool that allows iOS users to sign and install IPA files directly from their iPhone or iPad. You must have an Apple Developer account or a globally available free Distribute certificate to sign IPA files using this app. The Esign iOS utility was supported on iOS 14 through the most recent iOS versions, including iOS 17.8, iOS 18.6, and iOS 26 beta.
@@ -40,7 +41,7 @@ Size: 7.1 MB
 
 The modern tech world is evolving rapidly, with new app developers constantly introducing innovative concepts in the form of apps. While some apps can be found in the official [**Apple App Store**](https://www.apple.com/app-store/), many developers opt to release their useful iPhone apps through third-party stores or on a [GitHub IPA Library](https://github.com/IPAlibrary/IPA). To access these apps, iPhone owners can use the Esign iOS App, which allows third-party programs outside the Apple App Store to be installed. 
 
-**Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 26, 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
+**Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 26.1, 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
 
 You could use the Esign iOS App to install third-party applications. The team at yyyue.xyz created this device signing tool. 
