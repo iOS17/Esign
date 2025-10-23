@@ -58,6 +58,7 @@ To sign and install the IPA file on your iDevice, Esign requires a .p12 certific
 
 We strongly suggest that you buy high-quality certificates from legitimate certificate-selling services. 
 Here are some of them:
+kekuk certificates providers - (https://kekuk.com/esign-ios-ipa-singing-app/)
 [udidmaster.com](https://udidmaster.com) 
 [u04s.com](https://u04s.com)
 [Zee signer certificates. ](https://esigncert.zeejb.com/)
@@ -106,7 +107,7 @@ Or, if the certificate files are a zip file, you can directly share them with th
 ### 1. Install Esign Sideloadly
 
 - Step 01: Download Sideloadly Tool & Install it -  [Sideloadly iOS: Ultimate Guide:](https://github.com/iOS17/sideloadly).
-- Step 02: [Download the Esign iOS iPA file.](https://zeejb.com/esign/)
+- Step 02: [Download the Esign iOS iPA file.](https://kekuk.com/esign-ios-ipa-singing-app/)
 - Step 03: Drag & Drop the Downloaded Esign iPA file into the Sideloadly Tool(Or import the Esign iPA file into Sideloaldy).
 - Step 04: Connect your iDevice in to your PC and Tap the Start Button.
 - Step 05: Check the iDevice Home screen for the installed Esign iOS App.
