@@ -62,6 +62,7 @@ kekuk certificates providers - (https://kekuk.com/esign-ios-ipa-singing-app/)
 [udidmaster.com](https://udidmaster.com) 
 [u04s.com](https://u04s.com)
 [Zee signer certificates. ](https://esigncert.zeejb.com/)
+[CertDrop](https://certdrop.app/esign-certificate/) — device-matched .p12 and .mobileprovision certificate packages for use with ESign.
 
 Once you have the premium .p12 and .mobileprovision files, the apps will not get revoked and will remain functional for an extended period.
 
