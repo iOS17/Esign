@@ -1,8 +1,8 @@
-# Ultimate Guide to Esign iOS: Download, Install on iOS 26.4 beta 2, iOS 26.3, iOS 18.7.1, iOS 17.7.10, iOS 16.7.12 and Beyond(2025) - Free P12 Certificate
+# Ultimate Guide to Esign iOS/Esign iOS Reborn: Download, Install on iOS 27.3 beta, 27.2.1, iOS 26.7.3, 18.7.12, 17.7.2, 16.7.16, 15.8.8 and Beyond(2026) - Free P12 Certificate - Updated
 
-The Esign iOS App is a powerful IPA signing tool compatible with iOS 26.1 (iOS 26.1 beta 4), 18.7.1, 17.7.10, 16.7.12, and below versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, allowing anyone to install it without needing a computer or a Jailbreak. 
+The Esign iOS(Esign Reborn - new) App is a powerful on-device IPA signing tool compatible with iOS 27.3 Beta 2(iOS 26.7.3), 18.7.12, 17.7.2, 16.7.16, and below versions. It is a free, user-friendly on-device IPA signing tool and IPA installer, allowing anyone to install it without needing a computer or a Jailbreak. 
 
-The Esign iOS app is a tool for signing and installing & injecting dylib in iOS IPA apps with Apple Developer/Distribution certificates.
+The Esign iOS (Also called Esign iOS Reborn) app is a tool for signing and installing & injecting dylib in iOS IPA apps with Apple Developer/Distribution certificates.
 
 Learn More:
 [iOS 26 Jailbreak Guide](https://github.com/iOS17/Jailbreak-iOS-26)
