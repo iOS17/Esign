@@ -5,16 +5,16 @@ The Esign iOS(Esign Reborn - new) App is a powerful on-device IPA signing tool c
 The Esign iOS (Also called Esign iOS Reborn) app is a tool for signing and installing & injecting dylib in iOS IPA apps with Apple Developer/Distribution certificates.
 
 Learn More:
-[iOS 26 Jailbreak Guide](https://github.com/iOS17/Jailbreak-iOS-26)
-[unc0ver jailbreak for iOS 26 beta?](https://github.com/iOS17/unc0ver-jailbreak)
-[Ksign iOS for iOS 26.1 beta - Sideload Any IPA file](https://github.com/iOS17/Ksign-iOS)
+-[iOS 26 Jailbreak Guide](https://github.com/iOS17/Jailbreak-iOS-26)
+-[unc0ver jailbreak for iOS 26 beta?](https://github.com/iOS17/unc0ver-jailbreak)
+-[Ksign iOS for iOS 26.1 beta - Sideload Any IPA file](https://github.com/iOS17/Ksign-iOS)
 
 
-Esign is a popular IPA signing tool that lets iOS users sign and install IPA files directly on their iPhone or iPad. You must have an Apple Developer account or a globally available free Distribute certificate to sign IPA files using this app. The Esign iOS utility was supported on iOS 14 through the most recent iOS versions, including iOS 17.8, iOS 18.6, and iOS 26 beta.
+Esign is a popular on-device IPA signing tool that lets iOS users sign and install unlimited IPA files directly on their iPhone or iPad. You must have an Apple Developer account or a free, globally available Distribute certificate to sign IPA files with this app. The Esign iOS utility was supported on iOS 14 through the most recent iOS versions, including iOS 17.8, iOS 18.6, and iOS 26 beta.
 
 Users must import and set the .p12 and .mobileconfiguration files to sign an IPA file. 
 
-The key advantage of Esign is its time-saving nature. Users can sign IPA files without needing a PC, a feature that promotes efficiency and convenience. Additionally, with your developer certificate, you are no longer required to resign IPA files within 7 days (as with [Sideloadly iPA Signing](https://github.com/iOS17/sideloadly)). 
+The key advantage of Esign is its time-saving nature. Users can sign IPA files without needing a PC, a feature that promotes efficiency and convenience. Additionally, with your developer certificate, you are no longer required to resign IPA files within 7 days (as with [Sideloadly IPA Signing](https://github.com/iOS17/sideloadly)). 
 
 
 Get E-Sign Free Certificates - [Generate Via Telegram Bot](https://t.me/p12certificategenbot)
