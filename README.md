@@ -4,6 +4,45 @@ The Esign iOS(Esign Reborn - new) App is a powerful on-device IPA signing tool c
 
 The Esign iOS (Also called Esign iOS Reborn) app is a tool for signing and installing & injecting dylib in iOS IPA apps with Apple Developer/Distribution certificates.
 
+
+## Esign iOS Checker
+
+Esign iOS Checker helps iOS users determine whether the Esign iOS app is compatible with their device and iOS version. @lar_S_far, the famous iOS security developer, developed it.
+
+Before you download the App, please [Check Esign Compatibility](https://bit.ly/kekukEsignChecker)
+
+
+
+## Download Latest ESign iOS IPA (ESign Reborn v7.1.1)
+
+Avoid outdated v5.0.x builds from fake mirror sites. Get the latest clean build or install directly via Safari:
+
+* **Version:** 7.1.0 / 7.1.1 (Latest 2026 Release)
+* **Compatibility:** iOS 15.0 – iOS 26.4+ (iPhone & iPad)
+* **Size:** ~16.5 MB
+
+👉 **[Official ESign Reborn Website & Online Signer](https://esignreborn.com/)** *(No-PC Safari Direct Install)*  
+👉 **[Download ESign Reborn Latest IPA](https://esignreborn.com/)**
+
+
+
+## Beware of Fake ESign Websites & Outdated Tutorials
+
+If you search for ESign on Google or YouTube, you will see dozens of fake domains (such as `esign-ios` clones) and outdated tutorials still promoting **v5.0.2 or v5.0.3**. 
+* **Do not** download random profiles or ad-heavy installers from unverified clones.
+* Always use **[ESign Reborn](https://esignreborn.com/)** for clean builds, active updates, and working online signing.
+
+## What's New in ESign Reborn (v7.1.0+)
+
+Compared to the discontinued legacy v5 builds, ESign Reborn brings major upgrades for modern iOS versions:
+
+* **Dyld Studio:** Import tweaks (`.deb`, `.dylib`, `.framework`, `.zip`) directly from your repos, inspect internal files, choose load order/runtime, and run pre-signing checks with post-signing reports.
+* **IPA Customizer & Library Control:** Edit app names, bundle IDs, and versions before signing, plus **Remove Libraries and Re-sign** or **Compare with Original** IPAs.
+* **Safari Online Signer:** Upload your `.p12` and `.mobileprovision` files directly in Safari to install ESign on your iPhone without needing a computer.
+* **ESign Cloud Backup:** Encrypted cloud backup (protected by your own password) to safely restore certificates and setups when switching devices or reinstalling.
+* **Built-in File Manager & Transfers:** Full file browser with image thumbnails, **WiFi Transfer**, and **WebDAV** support.
+
+
 Learn More:
 -[iOS 26 Jailbreak Guide](https://github.com/iOS17/Jailbreak-iOS-26)
 -[unc0ver jailbreak for iOS 26 beta?](https://github.com/iOS17/unc0ver-jailbreak)
@@ -21,20 +60,6 @@ Get E-Sign Free Certificates - [Generate Via Telegram Bot](https://t.me/p12certi
 Via Telegram - [https://t.me/P12Certificate](https://t.me/P12Certificate)
 
 
-## Esign iOS Checker
-
-Esign iOS Checker is a tool that helps iOS users determine whether the Esign iOS app is compatible with their device and iOS versions. @lar_S_far, the famous iOS security developer, developed it.
-
-Before you download the App, please [Check Esign Compatibility](https://bit.ly/kekukEsignChecker)
-
-
-## Download Esign iPA File
-
-Version: 5.0.2
-Size: 7.1 MB
-
-[Download Esign v 5.0.2 IPA - Link 1 ](https://ipa.zeejb.com/ipa.php?app=Esign&id=3175)
-[Download Esign v 5.0.2 IPA - Link 2 ](https://ipa.kekuk.com/download.php?id=3175)
 
 
 ## Why do we need the Esign iOS APP?
